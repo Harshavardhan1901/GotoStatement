@@ -1,0 +1,8 @@
+D:\M\Day-2\GotoStatement\GotoStatement\bin\Debug\GotoStatement.exe.config
+D:\M\Day-2\GotoStatement\GotoStatement\bin\Debug\GotoStatement.exe
+D:\M\Day-2\GotoStatement\GotoStatement\bin\Debug\GotoStatement.pdb
+D:\M\Day-2\GotoStatement\GotoStatement\obj\Debug\GotoStatement.csproj.AssemblyReference.cache
+D:\M\Day-2\GotoStatement\GotoStatement\obj\Debug\GotoStatement.csproj.SuggestedBindingRedirects.cache
+D:\M\Day-2\GotoStatement\GotoStatement\obj\Debug\GotoStatement.csproj.CoreCompileInputs.cache
+D:\M\Day-2\GotoStatement\GotoStatement\obj\Debug\GotoStatement.exe
+D:\M\Day-2\GotoStatement\GotoStatement\obj\Debug\GotoStatement.pdb
